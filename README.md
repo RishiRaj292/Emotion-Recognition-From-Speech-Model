@@ -22,4 +22,4 @@ pip install -r requirements.txt
 
 Team Leader - Rishi Raj
 
-Team Member 1 - Aditya Singh
+Team Member - Aditya Singh
