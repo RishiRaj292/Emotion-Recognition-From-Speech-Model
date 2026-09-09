@@ -13,6 +13,10 @@ This repository contains the implementation of a machine learning model designed
 Follow the below steps to set up the project environment:
 
 ```bash
-git clone https://github.com/RishiRaj292/Emotion-Recognition-From-Speech-Model.git
+git clone [https://github.com/RishiRaj292/Emotion-Recognition-From-Speech-Model.git](https://github.com/RishiRaj292/Emotion-Recognition-From-Speech-Model.git)
 cd Emotion-Recognition-From-Speech-Model
 pip install -r requirements.txt
+```
+
+Team Leader - Rishi Raj
+Team Member 1  - Aditya Singh
