@@ -18,5 +18,8 @@ cd Emotion-Recognition-From-Speech-Model
 pip install -r requirements.txt
 ```
 
+# Team
+
 Team Leader - Rishi Raj
-Team Member 1  - Aditya Singh
+
+Team Member 1 - Aditya Singh
